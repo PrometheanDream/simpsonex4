@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type"text/css" href="style.css">
+		<link href="https://fonts.googleapis.com/css?family=Oswald:300,500,700|Quattrocento:400,700" rel="stylesheet">
+		<title>Will Simpson</title>
+			
+		<meta name="description"
+			content="Assignment 2.2" />
+		<meta http-equiv="author"
+			content="Will Simpson" />
+		<meta name="keywords"
+			content="homework, webdesign, 100%" />
+		<meta name="robots"
+			content="nofollow" />
+	</head>
+
+	<div id="container">
+		<body>
+		  <h1>Assignment 2.2</h1>
+		  <h2>Chapter</h2>
+			<p class="intro"> Intro</p>
+			<p>Lorem ipsum dolor sit amet,<span class="sentence"> consectetur adipiscing elit. Sed cursus pulvinar ante.</span> Aliquam ornare leo at magna porta, sed dignissim quam luctus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque id maximus dolor.</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lobortis metus massa, vel ultrices nunc luctus eget. Proin semper placerat turpis, maximus commodo odio maximus sit amet. Integer mattis felis eget nisi posuere, in pellentesque quam lacinia. Pellentesque pharetra odio nisl, auctor vestibulum est feugiat ac. Nam feugiat maximus pharetra. Suspendisse massa risus, hendrerit nec hendrerit at, posuere et neque. Integer interdum nibh ac nunc bibendum blandit. Duis pretium faucibus ligula. Etiam tristique nisi ac tempus semper. Aenean at sodales arcu. Nullam mauris tortor, faucibus vitae ipsum eget, laoreet volutpat lectus.</p>
+			
+		<hr>
+			<address> Name of Person <br>Street Name <br> City Name <br> State and Zipcode</address>
+
+
+		<div class="movieList">
+			<h3>Top Ten Movies</h3>
+				<ol>
+					<li>Inglourious Basterds</li>
+					<li>Howl's Moving Castle</li>
+					<li>The Princess Bride</li>
+					<li>Blade Runner</li>
+					<li>Kubo and the Two Strings</li>
+					<li>Ninja Assassin</li>
+					<li>The Matrix</li>
+					<li>Robin Hood: Men in Tights</li>
+					<li>Spirited Away</li>
+					<li>Nausicaa</li>
+				</ol>
+
+		</div>
+
+			<div class="fiveLearned">
+
+				<h3>Five things I learned last week in this class:</h3>
+					<ul>
+						<li>How to establish text scales</li>
+						<li>That Short Term Memory is limited to small chunks of information</li>
+						<li>How to stop search engines from archiving your web page through meta tags</li>
+						<li>How to gain analytical information on your website</li>
+						<li>How to make inline breaks in coded paragraphs </li>
+					</ul>
+			</div>
+
+			<p class="last"><a class="url" href="https://www.reddit.com"> Reddit </a> is a website where you can spend all of your day and never get anything done</p>
+
+			<p class="topLink"><a href="#container">Back to the Top</a>
+
+		</body>
+	</div>
+</html>
